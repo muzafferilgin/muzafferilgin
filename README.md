@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muzafferilgin
-- 👀 I’m interested in OpenGIS, C#, php
+- 👀 I’m interested in OpenGIS, C#, Js
 - 🌱 I’m currently learning GIS
 - 💞️ I’m looking to collaborate on GIS
 - 📫 How to reach me +905074907087 muzaffer_ilgin@hotmail.com
